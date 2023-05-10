@@ -10,9 +10,9 @@ I also have knowlegde in HTML5, CSS, Bootstrap and MySQL.
 
 - I am currently working as a Web Developer at Support Zebra.
 - You can take a look at my [LinkedIn](https://www.linkedin.com/in/kassandra-mije/)
-- Email me at mijekassandra
+- Email me at mijekassandra@gmail.com
 
 
 ![Kassandra's Github Stats](https://github-readme-stats.vercel.app/api?username=mijekassandra20&theme=aura_dark&show_icons=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mijekassandra20&theme=monokai-metallian&count_private=true)
 
-![Kassandra's Github Stats](https://github-readme-stats.vercel.app/api?username=mijekassandra20&theme=aura_dark&show_icons=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mijekassandra&theme=monokai-metallian&count_private=true)
+![Kassandra's Github Stats](https://github-readme-stats.vercel.app/api?username=mijekassandra&theme=aura_dark&show_icons=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mijekassandra&theme=monokai-metallian&count_private=true)
