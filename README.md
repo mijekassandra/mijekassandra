@@ -13,6 +13,6 @@ I also have knowlegde in HTML5, CSS, Bootstrap and MySQL.
 - Email me at mijekassandra@gmail.com
 
 
-![Kassandra's Github Stats](https://github-readme-stats.vercel.app/api?username=mijekassandra20&theme=aura_dark&show_icons=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mijekassandra20&theme=monokai-metallian&count_private=true)
+![Work Github Stats](https://github-readme-stats.vercel.app/api?username=mijekassandra20&theme=aura_dark&show_icons=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mijekassandra20&theme=monokai-metallian&count_private=true)
 
-![Kassandra's Github Stats](https://github-readme-stats.vercel.app/api?username=mijekassandra&theme=aura_dark&show_icons=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mijekassandra&theme=monokai-metallian&count_private=true)
+![Personal Github Stats](https://github-readme-stats.vercel.app/api?username=mijekassandra&theme=aura_dark&show_icons=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mijekassandra&theme=monokai-metallian&count_private=true)
