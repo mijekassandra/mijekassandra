@@ -2,8 +2,8 @@
 
 ## About me :pencil:
 
-I am Kassandra Mije, a Software engineer specializing in backend development utilizing Javascript, Node.js, React.js, Express.js, MongoDB, and REST APIs.
-I also have knowlegde in HTML5, CSS, Bootstrap and MySQL.
+I am Kassandra Mije, a Web Developer utilizing Javascript, Typescript, Node.js, React.js, Express.js, MongoDB, and REST APIs.
+I also have knowlegde in HTML5, CSS, Bootstrap, MUI and MySQL.
 
 
 ## Get in touch :coffee:
@@ -11,8 +11,5 @@ I also have knowlegde in HTML5, CSS, Bootstrap and MySQL.
 - I am currently working as a Web Developer at Support Zebra.
 - You can take a look at my [LinkedIn](https://www.linkedin.com/in/kassandra-mije/)
 - Email me at mijekassandra@gmail.com
-
-
-![Work Github Stats](https://github-readme-stats.vercel.app/api?username=mijekassandra20&theme=aura_dark&show_icons=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mijekassandra20&theme=monokai-metallian&count_private=true)
 
 ![Personal Github Stats](https://github-readme-stats.vercel.app/api?username=mijekassandra&theme=aura_dark&show_icons=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mijekassandra&theme=monokai-metallian&count_private=true)
