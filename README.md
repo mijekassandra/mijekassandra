@@ -2,8 +2,7 @@
 
 ## About me :pencil:
 
-I am Kassandra Mije, a Web Developer utilizing Javascript, Typescript, Node.js, React.js, Express.js, MongoDB, and REST APIs.
-I also have knowlegde in HTML5, CSS, Bootstrap, MUI and MySQL.
+I am Kassandra Mije, a Web Developer utilizing Javascript, Typescript, Node.js, React.js, Express.js, MongoDB, REST APIs, HTML5, CSS, Bootstrap, MUI and MySQL.
 
 
 ## Get in touch :coffee:
